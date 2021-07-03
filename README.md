@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarisLucky Salman Al Farisi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Laravel, Writing,
+- 🌱 I’m currently learning Laravel, Writing Undergraduate Thesis,
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
