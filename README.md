@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarisLucky Salman
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Laravel, Vue 3, Finished Writing Undergraduate Thesis,
+- 🌱 I’m currently learning Laravel 8, Vue 3, Finished Writing Undergraduate Thesis,
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
